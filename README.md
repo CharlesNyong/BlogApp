@@ -8,6 +8,5 @@ Main functionalities:
 
 - Create, delete and edit blog posts
 
-
-This project is still ongoing, upon completion, the full instructions/installation guide will be written here. 
+ 
 
